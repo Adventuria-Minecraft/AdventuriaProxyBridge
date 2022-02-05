@@ -1,0 +1,5 @@
+name: AdventuriaProxyBridge
+main: de.thedodo24.adventuriaproxybridge.ProxyBridge
+version: '${project.version}'
+author: TheDodo24
+depend: [LuckPerms]
